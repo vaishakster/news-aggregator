@@ -24,8 +24,8 @@ Before setting up the project, ensure you have the following installed on your m
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/news-aggregator-api.git
-   cd news-aggregator-api
+   git clone https://github.com/vaishakster/news-aggregator.git
+   cd news-aggregator
    ```
 
 2. **Install Laravel dependencies**: Run the following command to install all the necessary dependencies using Composer:
